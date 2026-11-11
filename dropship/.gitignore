@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/build/
+**/.gradle/
+**/local.properties
+**/*.keystore
+**/*.jks
+*.apk
+*.exe
+*.pdb
+*.log
+*.b64
+*settings*.json
